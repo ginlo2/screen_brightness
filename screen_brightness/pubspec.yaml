@@ -22,6 +22,7 @@ dependencies:
   screen_brightness_android:
     git:
       url: git@github.com:ginlo2/screen_brightness.git
+      path: screen_brightness_android
       ref: ginlo
 
   screen_brightness_ios: ">=2.1.1 <3.0.0"
