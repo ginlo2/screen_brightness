@@ -1,3 +1,16 @@
+## 2.1.7
+
+* [Android] upgrade Android SDK version AGP (8.6.1), Kotlin (1.9.22), Gradle (8.7) [#74](https://github.com/aaassseee/screen_brightness/pull/74)
+* [OHOS] temporary revert migrate to new project structure [#75](https://github.com/aaassseee/screen_brightness/issues/75)
+
+## 2.1.6
+
+* [OHOS] migrate to new project structure [#71](https://github.com/aaassseee/screen_brightness/pull/71)
+
+## 2.1.5
+
+* fixed crash when getting system brightness on custom ROM [#67](https://github.com/aaassseee/screen_brightness/pull/67)
+
 ## 2.1.4
 
 * support SMP [#56](https://github.com/aaassseee/screen_brightness/issues/56)
